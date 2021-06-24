@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "400px" src="https://images.unsplash.com/photo-1624486865186-1c1022394bba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -11,8 +11,8 @@
 <div size='20px'> <h2> Hi! My name is Vaibhav Sharma.Thank You for taking the time to view my GitHub Profile </h2> 
 </div>
 
-<h2> About Me  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px</h2>
-<img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg" />
+<h2>About Me  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px</h2>
+<img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/software-developer-concept-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code_277904-7737.jpg" />
 
 
   
