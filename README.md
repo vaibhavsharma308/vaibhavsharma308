@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Vaibhav 
-#### A passionate Programmer
+###  <h1>Hi there 👋, my name is Vaibhav </h1> 
+####  <h2> A passionate Programmer </h2>
 ![A passionate Programmer](https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
 
@@ -19,7 +19,7 @@ Skills:  REACT / JS / HTML / CSS /BOOTSTRAP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavsharma308&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhavsharma308)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaibhavsharma308)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsharma308)  
 
