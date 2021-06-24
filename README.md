@@ -11,11 +11,11 @@
 <div size='20px'> <h2> Hi! My name is Vaibhav Sharma.Thank You for taking the time to view my GitHub Profile </h2> 
 </div>
 
-<h2>About Me  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px</h2>
+<h2>About Me<  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px  /h2>
 <img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/software-developer-concept-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code_277904-7737.jpg" />
 
 
-  
+
 - 🔭 I’m currently working on Blogging Website
 
 - 🌱 I’m currently learning  React and Data Structures 
@@ -49,6 +49,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsharma308&theme=dracula" />
 </a>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 
