@@ -1,4 +1,4 @@
-###  <h1>Hi there 👋, my name is Vaibhav </h1> 
+###  <h1> Hi there 👋, my name is  <em> Vaibhav Sharma ⭐ </em></h1> 
 ####  <h2> A passionate Programmer </h2>
 ![A passionate Programmer](https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
@@ -6,7 +6,7 @@
 Skills:  REACT / JS / HTML / CSS /BOOTSTRAP
 
 - 🔭 I’m currently working on BLOGGING WEBSITE. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and Data Structures
 - 👯 I’m looking to collaborate on Web Development 
 - 💬 Ask me about Anything 😅 
 - 📫 How to reach me:  Email iamvaibhavsharam30@gmail.com 
