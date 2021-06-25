@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://images.unsplash.com/photo-1624486865186-1c1022394bba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="cover" />
+<img width="100%" height = "400px" src="https://i.ibb.co/zNjVtVt/Screenshot-203.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vaibhavsharma308.vaibhavsharma308)
 
 </p>
-<div size='20px'> <h2> Hi! My name is Vaibhav Sharma.Thank You for taking the time to view my GitHub Profile </h2> 
+<div size='20px'> <h2> Hi! Thank You for taking the time to view my GitHub Profile </h2> 
 </div>
 
 <h2>About Me<  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px  /h2>
