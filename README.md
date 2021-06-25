@@ -12,7 +12,7 @@
 </div>
 
 <h2>About Me<  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px  /h2>
-<img width="55%" align="right" alt="Github" src="https://image.freepik.com/free-vector/software-developer-concept-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code_277904-7737.jpg" />
+<img width="55%" align="right" alt="Github" src="https://i.ibb.co/9Z1Jr95/main2-removebg-preview.png" />
 
 
 
